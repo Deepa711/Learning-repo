@@ -6,3 +6,4 @@ Student_name varchar,
 Student_id int,
 Student_age int
 );
+
